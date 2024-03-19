@@ -17,4 +17,5 @@ b=float(input("ust limit: "))
 n=int(input("alt aralık:"))
 sonuc=simpson(a,b,n)
 print("deger: %0.6f"%(sonuc))
+g=int((input("bos:")))
 
